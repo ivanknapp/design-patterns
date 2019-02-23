@@ -21,6 +21,7 @@
         <module>factory-method</module>
         <module>builder</module>
         <module>prototype</module>
+        <module>singleton</module>
     </modules>
 
     <dependencies>
